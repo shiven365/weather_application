@@ -7,8 +7,8 @@ This is a sleek and modern weather application built with HTML, CSS, and JavaScr
 ## 📸 Screenshot
 
 Here is a preview of the application's interface:
-
-![Weather App Screenshot](image_21ee45.jpg)
+<br>
+<img src="https://github.com/user-attachments/assets/bfd9fd2f-8426-4075-979f-be7e70dfff38" alt="Weather App Screenshot" width="650">
 
 ---
 
@@ -48,9 +48,9 @@ To run this project on your local machine, follow these steps:
     * Open the `weatherscript.js` file.
     * Find the following line:
         ```javascript
-        const API_KEY = "ac023b5693a44e7db03125355250802"; // Replace with your actual API key
+        const API_KEY = ""; // Replace with your actual API key
         ```
     * Replace the existing key with **your own API key**.
 
 4.  **Open in Browser:**
-    * Simply open the `index.html` file in your web browser to see the application in action.
+    * Simply open the `weather_web.html` file in your web browser to see the application in action.
