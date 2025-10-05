@@ -12,7 +12,7 @@ let w_pressure = document.querySelector(".weather_pressure");
 let searchInput = document.querySelector("#city_name");
 let searchForm = document.querySelector(".weather_search");
 
-const API_KEY = "ac023b5693a44e7db03125355250802"; // Replace with your actual API key
+const API_KEY = ""; // Replace with your actual API key
 
 const getWeatherData = async (city) => {
     const weatherUrl = `https://api.weatherapi.com/v1/current.json?key=${API_KEY}&q=${city}`;
